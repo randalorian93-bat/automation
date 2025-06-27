@@ -1,1 +1,2 @@
 # automation
+This repository contains my personal automation tool projects, organized by operating system. The `mac/` folder includes macOS-specific scripts using Python, cron, and shell commands for tasks like system reporting and environment monitoring. The `windows/` folder includes PowerShell automation for file cleanup, reporting, and task scheduling. These projects are built to streamline real-world IT tasks and serve as hands-on experience with cross-platform automation tools such as Git, Python, bash, and PowerShell.
